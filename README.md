@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=Hazem%20Abdelazez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(Node.js+%2B+React);Cloud+%26+DevOps+(AWS+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform);Building+Scalable+Microservices+%26+Web+Applications;Infrastructure+as+Code+(IaC)+%26+CI%2FCD+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+(Node.js+%2B+React);AWS+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform;Scalable+Microservices+%26+Web+Apps;Cloud+Architecture+%26+CI%2FCD" alt="Typing SVG" />
   </a>
 
   <p align="center">
